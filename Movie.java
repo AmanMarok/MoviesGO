@@ -19,6 +19,7 @@ public class Movie {
     @SerializedName("results")
     @Expose
     private List<Result> results = null;
+int k =9;
 
     public Integer getPage() {
         return page;

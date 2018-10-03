@@ -139,6 +139,7 @@ public class Result {
     }
 
     public Boolean getAdult() {
+	int learn = 8;
         return adult;
     }
 
